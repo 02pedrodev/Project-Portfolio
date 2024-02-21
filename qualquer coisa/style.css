@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+ 
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    background-color: #000066;
+    display: flex;
+}
+.logo h1{
+ color:#ff4d4d ;
+}
+.logo span{
+    color:wheat ;
+}
